@@ -1,0 +1,60 @@
+{
+    "musics" : [
+        {
+            "artist": "Asako Toki",
+            "eid": "1",
+            "genre": "j-pop",
+            "song": "HOME",
+            "display": "https://i.ibb.co/LNP59W0/300.jpg",
+            "demo": "https://www.mboxdrive.com/home.mp3"
+        },
+        {
+            "artist": "takayan",
+            "eid": "2",
+            "genre": "chilling",
+            "song": "I wanna kill you",
+            "display": "https://i.ibb.co/gVMM06f/Takayan-Bad-Example.jpg",
+            "demo": "https://www.mboxdrive.com/takayan-%20i%20wanna%20kill%20you.mp3"
+        },
+        {
+            "artist": "whaledontsleep",
+            "eid": "3",
+            "genre": "j-pop",
+            "song": "Sleeping town",
+            "display": "https://i.ibb.co/HKzg5BH/ab67616d0000b273b4a3c550b3dd53502a638198.jpg",
+            "demo": "https://www.mboxdrive.com/whaledontsleep-%20sleeping%20town.mp3"
+        },
+        {
+            "artist": "Aimer",
+            "eid": "4",
+            "genre": "j-rock",
+            "song": "カタオモイ",
+            "display": "https://i.ibb.co/D4SjLph/6697aea2fc7606841449fbdb551c1c25-1000x1000x1.jpg",
+            "demo": "https://www.mboxdrive.com/aimer-%E3%82%AB%E3%82%BF%E3%82%AA%E3%83%A2%E3%82%A4.mp3"
+        },
+        {
+            "artist": "Cidergirl",
+            "eid": "5",
+            "genre": "j-rock",
+            "song": "シンデレラ",
+            "display": "https://i.ibb.co/ZL4QNcW/Cidergirl-Cinderella.jpg",
+            "demo": "https://www.mboxdrive.com/cidergirl%20-%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9.mp3"
+        },
+        {
+            "artist": "Ujita Mai",
+            "eid": "6",
+            "genre": "j-pop",
+            "song": "Hitoriuta",
+            "display": "https://i.ibb.co/jD0dqLm/Ujita-Mai-Hitoriuta-September-How-You-Doin-Lyrics.jpg",
+            "demo" : "https://www.mboxdrive.com/ujita%20mai%20-%20Hitoriuta.mp3"
+        },
+        {
+            "artist": "Yorushika",
+            "eid": "7",
+            "genre": "soft-rock",
+            "song": "花に亡霊",
+            "display": "https://i.ibb.co/6nNfwhN/artworks-Nf-Aa-Ehiq5q-GT4-Jr-Z-sl-WSo-A-t500x500.jpg",
+            "demo": "https://www.mboxdrive.com/yorushika-%20%E8%8A%B1%E3%81%AB%E4%BA%A1%E9%9C%8A.mp3"
+        }
+    ]
+}
